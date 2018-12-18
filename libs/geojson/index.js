@@ -6,7 +6,7 @@ const fs = require('fs');
 var mapObj = {};
 
 function find( obj ){
-    mapObj[obj._id] = obj.name;
+    mapObj[obj.name] = obj._id;
 
     if( obj.children ){
         for(let p in obj.children){
