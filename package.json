@@ -1,6 +1,6 @@
 {
   "name": "geo-utils-zdluoa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "geojson工具类",
   "main": "index.js",
   "directories": {
